@@ -1,0 +1,16 @@
+{
+    "name": "Runtime.Guide",
+    "rootNamespace": "",
+    "references": [
+        "GUID:618eff726afb9264783ba9595ed2d573"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

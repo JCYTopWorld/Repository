@@ -1,0 +1,16 @@
+{
+    "name": "EditorFrameworl",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7fcf0f064d9861244b02f3d56405f5e1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
